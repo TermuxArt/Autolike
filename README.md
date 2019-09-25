@@ -10,8 +10,8 @@ gem install lolcat
 apt install python
 pip install --upgrade pip
 pip install requests
-git clone https://github.com/TermuxArt/Autolike
-cd Autolike
+git clone https://github.com/TermuxArt/Autoreaction
+cd Autoreaction
 python like.py
 
 ```
